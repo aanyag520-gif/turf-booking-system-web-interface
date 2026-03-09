@@ -1,0 +1,53 @@
+body{
+font-family: Arial;
+margin:0;
+padding:0;
+background:#f4f4f4;
+text-align:center;
+}
+
+header{
+background:#2c3e50;
+color:white;
+padding:15px;
+}
+
+nav a{
+color:white;
+margin:10px;
+text-decoration:none;
+}
+
+.hero{
+padding:40px;
+}
+
+.card{
+background:white;
+padding:20px;
+margin:20px auto;
+width:300px;
+border-radius:8px;
+box-shadow:0 0 5px gray;
+}
+
+form{
+background:white;
+padding:20px;
+width:300px;
+margin:auto;
+border-radius:8px;
+}
+
+input, select{
+width:90%;
+padding:8px;
+margin:8px;
+}
+
+button{
+background:#27ae60;
+color:white;
+padding:10px 20px;
+border:none;
+}
